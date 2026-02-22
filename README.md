@@ -1,10 +1,15 @@
 # Problem Solver Lab
 
-A professional blog site built with Jekyll and designed for GitHub Pages.
+A professional blog site built with Jekyll and designed for GitHub Pages project hosting.
+
+## Live URLs
+
+- Site home: `https://kingalok.github.io/problem-solver-lab/`
+- First post: `https://kingalok.github.io/problem-solver-lab/blog/from-spark-to-dark-factory/`
 
 ## Included
 
-- Custom responsive design (no stock theme)
+- Clean responsive design
 - Post index homepage
 - About page
 - First blog post:
@@ -13,10 +18,10 @@ A professional blog site built with Jekyll and designed for GitHub Pages.
 
 ## Image setup for first post
 
-Place your two attached visuals using these exact file names:
+Use these exact file names:
 
-- `assets/images/ai-delivery-levels.jpg`
-- `assets/images/three-developer-roles.jpg`
+- `assets/images/AI-Dev1.png`
+- `assets/images/AI-Dev2.png`
 
 ## Run locally (optional)
 
@@ -25,10 +30,10 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Then open `http://127.0.0.1:4000`.
+Then open `http://127.0.0.1:4000/problem-solver-lab/`.
 
 ## Publish on GitHub Pages
 
 1. Push to `main`.
-2. In repo settings, enable Pages with `GitHub Actions` as source.
-3. The included workflow `.github/workflows/pages.yml` deploys automatically.
+2. In repository settings, set Pages source to `GitHub Actions`.
+3. Workflow file `.github/workflows/pages.yml` will build and deploy automatically.

@@ -7,7 +7,7 @@ tags:
   - AI Delivery
   - Agentic AI
   - Engineering Strategy
-cover_image: /assets/images/ai-delivery-levels.jpg
+cover_image: /assets/images/AI-Dev1.png
 cover_alt: "Six levels of AI delivery from Spark to Dark Factory"
 cover_caption: "AI delivery maturity ladder: Spark, Solo Agent, Agent Mesh, Mission Control, Autopilot, Dark Factory"
 ---
@@ -54,7 +54,7 @@ You provide a spec and acceptance criteria. The system builds, tests, and deploy
 
 Policy-driven continuous delivery. Intent and constraints go in. Working software comes out. Humans define guardrails and handle exceptions.
 
-![AI delivery levels visual](/assets/images/ai-delivery-levels.jpg)
+![AI delivery levels visual]({{ '/assets/images/AI-Dev1.png' | relative_url }})
 
 ## Three developer roles emerging in 2026
 
@@ -70,7 +70,7 @@ Owns platform controls: identity, guardrails, auditability, CI gates, and rollba
 
 Turns domain intent into executable workflows, specs, and tools.
 
-![Three developer roles visual](/assets/images/three-developer-roles.jpg)
+![Three developer roles visual]({{ '/assets/images/AI-Dev2.png' | relative_url }})
 
 ## My 2026 take
 
@@ -83,7 +83,9 @@ Every developer will have an AI pair mapped to them, moving quickly from assist 
 
 Level 5 is no longer a distant idea. It is already visible in pockets with strong agent tooling and factory-like execution systems.
 
-Source context: [Original long-form post](https://lnkd.in/eSC69RQZ)
+## Original post
+
+- LinkedIn: [From Spark to Dark Factory](https://www.linkedin.com/posts/kingalok-sharma_%F0%9D%97%99%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BA-%F0%9D%97%A6%F0%9D%97%BD%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B8-%F0%9D%98%81%F0%9D%97%BC-%F0%9D%97%97%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B8-%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%B0%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BF%F0%9D%98%86-activity-7431010720504508416-rkZF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4CjiwBGtCwcvfvVNus8F1u7V853hDlKAM)
 
 ## Rule-form provocation
 
